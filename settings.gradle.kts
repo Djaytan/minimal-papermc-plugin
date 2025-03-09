@@ -13,6 +13,18 @@ dependencyResolutionManagement {
             }
         }
 
+        // Brigadier dependency
+        exclusiveContent {
+            forRepository {
+                maven {
+                    url = uri("https://libraries.minecraft.net")
+                }
+            }
+            filter {
+                includeModule("com.mojang", "brigadier")
+            }
+        }
+
         // PaperMC dependencies
         exclusiveContent {
             forRepository {

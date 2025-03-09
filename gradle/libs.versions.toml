@@ -1,0 +1,4 @@
+[libraries]
+
+# Minecraft-related
+papermc-api = { module = "io.papermc.paper:paper-api", version = "1.21.4-R0.1-SNAPSHOT" }
