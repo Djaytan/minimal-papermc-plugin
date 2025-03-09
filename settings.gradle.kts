@@ -1,4 +1,4 @@
-rootProject.name = "minimal-spigot-plugin"
+rootProject.name = "minimal-papermc-plugin"
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 

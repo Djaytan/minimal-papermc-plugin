@@ -1,4 +1,4 @@
-package com.djaytan.spigot.minimal.plugin;
+package com.djaytan.papermc.minimal.plugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
