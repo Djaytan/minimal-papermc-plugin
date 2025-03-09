@@ -1,0 +1,17 @@
+# EditorConfig: https://editorconfig.org/
+
+# Top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Prevent line-ending removal in Markdown files (two trailing spaces = new line)
+[*.md]
+trim_trailing_whitespace = false
