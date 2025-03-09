@@ -6,6 +6,6 @@ public final class MinimalPlugin extends JavaPlugin {
 
   @Override
   public void onEnable() {
-    getLogger().info("Hello, SpigotMC!");
+    getLogger().info("Hello, PaperMC!");
   }
 }
